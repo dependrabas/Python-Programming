@@ -1,0 +1,1 @@
+print(RED,"This will be red")
